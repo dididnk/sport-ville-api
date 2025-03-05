@@ -1,0 +1,302 @@
+[
+    {
+      "id": 1,
+      "name_en": "Soccer",
+      "name_fr": "Football",
+      "icon": "⚽"
+    },
+    {
+      "id": 2,
+      "name_en": "Basketball",
+      "name_fr": "Basketball",
+      "icon": "🏀"
+    },
+    {
+      "id": 3,
+      "name_en": "Tennis",
+      "name_fr": "Tennis",
+      "icon": "🎾"
+    },
+    {
+      "id": 4,
+      "name_en": "Swimming",
+      "name_fr": "Natation",
+      "icon": "🏊"
+    },
+    {
+      "id": 5,
+      "name_en": "Running",
+      "name_fr": "Course à pied",
+      "icon": "🏃"
+    },
+    {
+      "id": 6,
+      "name_en": "Cycling",
+      "name_fr": "Cyclisme",
+      "icon": "🚴"
+    },
+    {
+      "id": 7,
+      "name_en": "Golf",
+      "name_fr": "Golf",
+      "icon": "⛳"
+    },
+    {
+      "id": 8,
+      "name_en": "Volleyball",
+      "name_fr": "Volley-ball",
+      "icon": "🏐"
+    },
+    {
+      "id": 9,
+      "name_en": "Rugby",
+      "name_fr": "Rugby",
+      "icon": "🏉"
+    },
+    {
+      "id": 10,
+      "name_en": "Boxing",
+      "name_fr": "Boxe",
+      "icon": "🥊"
+    },
+    {
+      "id": 11,
+      "name_en": "Cricket",
+      "name_fr": "Cricket",
+      "icon": "🏏"
+    },
+    {
+      "id": 12,
+      "name_en": "Baseball",
+      "name_fr": "Baseball",
+      "icon": "⚾"
+    },
+    {
+      "id": 13,
+      "name_en": "Hockey",
+      "name_fr": "Hockey",
+      "icon": "🏒"
+    },
+    {
+      "id": 14,
+      "name_en": "Skiing",
+      "name_fr": "Ski",
+      "icon": "⛷️"
+    },
+    {
+      "id": 15,
+      "name_en": "Snowboarding",
+      "name_fr": "Snowboard",
+      "icon": "🏂"
+    },
+    {
+      "id": 16,
+      "name_en": "Surfing",
+      "name_fr": "Surf",
+      "icon": "🏄"
+    },
+    {
+      "id": 17,
+      "name_en": "Weightlifting",
+      "name_fr": "Haltérophilie",
+      "icon": "🏋️"
+    },
+    {
+      "id": 18,
+      "name_en": "Martial Arts",
+      "name_fr": "Arts martiaux",
+      "icon": "🥋"
+    },
+    {
+      "id": 19,
+      "name_en": "Yoga",
+      "name_fr": "Yoga",
+      "icon": "🧘"
+    },
+    {
+      "id": 20,
+      "name_en": "Dancing",
+      "name_fr": "Danse",
+      "icon": "💃"
+    },
+    {
+      "id": 21,
+      "name_en": "Badminton",
+      "name_fr": "Badminton",
+      "icon": "🏸"
+    },
+    {
+      "id": 22,
+      "name_en": "Table Tennis",
+      "name_fr": "Tennis de table",
+      "icon": "🏓"
+    },
+    {
+      "id": 23,
+      "name_en": "Squash",
+      "name_fr": "Squash",
+      "icon": "🎾"
+    },
+    {
+      "id": 24,
+      "name_en": "Handball",
+      "name_fr": "Handball",
+      "icon": "🤾"
+    },
+    {
+      "id": 25,
+      "name_en": "Water Polo",
+      "name_fr": "Water-polo",
+      "icon": "🤽"
+    },
+    {
+      "id": 26,
+      "name_en": "Ultimate Frisbee",
+      "name_fr": "Ultimate Frisbee",
+      "icon": "🥏"
+    },
+    {
+      "id": 27,
+      "name_en": "Paddle Tennis",
+      "name_fr": "Paddle Tennis",
+      "icon": "🏓"
+    },
+    {
+      "id": 28,
+      "name_en": "Climbing",
+      "name_fr": "Escalade",
+      "icon": "🧗"
+    },
+    {
+      "id": 29,
+      "name_en": "Fencing",
+      "name_fr": "Escrime",
+      "icon": "🤺"
+    },
+    {
+      "id": 30,
+      "name_en": "Rowing",
+      "name_fr": "Aviron",
+      "icon": "🚣"
+    },
+    {
+      "id": 31,
+      "name_en": "Kayaking",
+      "name_fr": "Kayak",
+      "icon": "🛶"
+    },
+    {
+      "id": 32,
+      "name_en": "Canoeing",
+      "name_fr": "Canoë",
+      "icon": "🛶"
+    },
+    {
+      "id": 33,
+      "name_en": "Archery",
+      "name_fr": "Tir à l'arc",
+      "icon": "🏹"
+    },
+    {
+      "id": 34,
+      "name_en": "Equestrian",
+      "name_fr": "Équitation",
+      "icon": "🐎"
+    },
+    {
+      "id": 35,
+      "name_en": "Triathlon",
+      "name_fr": "Triathlon",
+      "icon": "🏊🚴🏃"
+    },
+    {
+      "id": 36,
+      "name_en": "Parkour",
+      "name_fr": "Parkour",
+      "icon": "🤸"
+    },
+    {
+      "id": 37,
+      "name_en": "Judo",
+      "name_fr": "Judo",
+      "icon": "🥋"
+    },
+    {
+      "id": 38,
+      "name_en": "Karate",
+      "name_fr": "Karaté",
+      "icon": "🥋"
+    },
+    {
+      "id": 39,
+      "name_en": "Taekwondo",
+      "name_fr": "Taekwondo",
+      "icon": "🥋"
+    },
+    {
+      "id": 40,
+      "name_en": "Wrestling",
+      "name_fr": "Lutte",
+      "icon": "🤼"
+    },
+    {
+      "id": 41,
+      "name_en": "Rowing Machine",
+      "name_fr": "Aviron indoor",
+      "icon": "🚣"
+    },
+    {
+      "id": 42,
+      "name_en": "Kendo",
+      "name_fr": "Kendo",
+      "icon": "🥋"
+    },
+    {
+      "id": 43,
+      "name_en": "Pétanque",
+      "name_fr": "Pétanque",
+      "icon": "🏐"
+    },
+    {
+      "id": 44,
+      "name_en": "Padel",
+      "name_fr": "Padel",
+      "icon": "🎾"
+    },
+    {
+      "id": 45,
+      "name_en": "Dodgeball",
+      "name_fr": "Balle au prisonnier",
+      "icon": "🤾"
+    },
+    {
+      "id": 46,
+      "name_en": "Airsoft",
+      "name_fr": "Airsoft",
+      "icon": "🔫"
+    },
+    {
+      "id": 47,
+      "name_en": "Paintball",
+      "name_fr": "Paintball",
+      "icon": "🎯"
+    },
+    {
+      "id": 48,
+      "name_en": "Slacklining",
+      "name_fr": "Slackline",
+      "icon": "🧗"
+    },
+    {
+      "id": 49,
+      "name_en": "Capoeira",
+      "name_fr": "Capoeira",
+      "icon": "🕺"
+    },
+    {
+      "id": 50,
+      "name_en": "Skateboarding",
+      "name_fr": "Skateboard",
+      "icon": "🛹"
+    }
+  ]
