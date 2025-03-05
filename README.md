@@ -1,65 +1,53 @@
-# Sport Icons API
+# SportVille API
 
-Ce dépôt contient un fichier JSON qui fournit une liste de sports populaires avec leurs noms en anglais et en français, ainsi que des émojis représentant chaque sport. Ce fichier peut être utilisé comme une API simple pour les applications mobiles, les sites web, ou tout autre projet nécessitant une liste de sports avec des icônes.
+🇫🇷   **Description de l'API**
+
+SportVille API est une API simple et légère qui fournit une liste de sports populaires avec leurs noms en français et en anglais, ainsi que des émojis représentant chaque sport. Cette API est conçue pour être utilisée dans des applications mobiles, des sites web, ou tout autre projet nécessitant une liste de sports avec des icônes.
+
+🇬🇧 **API Description**
+
+SportVille API is a lightweight and simple API that provides a list of popular sports with their names in French and English, along with emojis representing each sport. This API is designed to be used in mobile apps, websites, or any other project requiring a list of sports with icons.
 
 ---
 
-## 📂 Structure du fichier JSON
+🇫🇷  **Contenu du fichier JSON**
 
 Le fichier `sports.json` contient un tableau d'objets, où chaque objet représente un sport avec les propriétés suivantes :
-
 - `id` : Un identifiant unique pour le sport.
 - `name_en` : Le nom du sport en anglais.
 - `name_fr` : Le nom du sport en français.
 - `icon` : Un émoji représentant le sport.
 
-### Exemple de structure :
-```json
-[
-  {
-    "id": 1,
-    "name_en": "Soccer",
-    "name_fr": "Football",
-    "icon": "⚽"
-  },
-  {
-    "id": 2,
-    "name_en": "Basketball",
-    "name_fr": "Basketball",
-    "icon": "🏀"
-  }
-]
-
----
-
-# Sport Icons API
-
-This repository contains a JSON file that provides a list of popular sports with their names in English and French, as well as emojis representing each sport. This file can be used as a simple API for mobile applications, websites, or any other project that requires a list of sports with icons.
-
----
-
-## 📂 JSON File Structure
+🇬🇧 **JSON File Content**
 
 The `sports.json` file contains an array of objects, where each object represents a sport with the following properties:
-
 - `id`: A unique identifier for the sport.
 - `name_en`: The name of the sport in English.
 - `name_fr`: The name of the sport in French.
 - `icon`: An emoji representing the sport.
 
-### Example structure:
-```json
-[
- {
- "id": 1,
- "name_en": "Soccer",
- "name_fr": "Football",
- "icon": "⚽"
- },
- {
- "id": 2,
- "name_en": "Basketball",
- "name_fr": "Basketball",
- "icon": "🏀"
- }
-]
+---
+
+🇫🇷  **Pourquoi utiliser SportVille API ?**
+
+- **Simplicité** : Une API légère et facile à intégrer.
+- **Polyvalence** : Utilisable dans divers projets (mobile, web, etc.).
+- **Émojis inclus** : Des icônes visuelles pour chaque sport.
+
+🇬🇧 **Why Use SportVille API?**
+
+- **Simplicity**: A lightweight and easy-to-integrate API.
+- **Versatility**: Can be used in various projects (mobile, web, etc.).
+- **Emojis included**: Visual icons for each sport.
+
+---
+
+🇫🇷  **Contact**
+
+Pour toute question ou suggestion, contactez-moi :
+- **GitHub** : [@dididnk](https://github.com/dididnk)
+
+🇬🇧 **Contact**
+
+For any questions or suggestions, feel free to contact me:
+- **GitHub**: [@dididnk](https://github.com/dididnk)
