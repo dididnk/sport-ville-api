@@ -298,5 +298,11 @@
       "name_en": "Skateboarding",
       "name_fr": "Skateboard",
       "icon": "🛹"
+    },
+    {
+      "id": 100,
+      "name_en": "Other",
+      "name_fr": "Autre",
+      "icon": "❓​"
     }
   ]
